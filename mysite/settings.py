@@ -25,7 +25,7 @@ SECRET_KEY = 'er&m%$vmx__^i@u31pu$w6cbg66fdz978&dwg@@5i9zmm4=9g8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'jplemonsoup.pythonanywhere.com']
 
 
 # Application definition
